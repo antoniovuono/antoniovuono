@@ -1,9 +1,8 @@
 
 ## Antonio Vuono - Mobile Developer 📱 
 
-
 - 🧑🏾‍💻 Atualmente atuando como desenvolvedor mobile na Wiser Educação.
-- 📱 Me especializando em desenvolvimento mobile com React Native.
+- 📱 Mobile com React Native.
 - 🟢 Back-end com NodeJS.
 - 📫 Contate-me no email: antoniosvuono@icloud.com
 
