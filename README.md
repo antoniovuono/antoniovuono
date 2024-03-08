@@ -1,10 +1,10 @@
 
-## Antonio Vuono - Mobile Developer 📱 
+## Antonio Vuono - Mobile Engineer 📱 
 
-- 🧑🏾‍💻 Atualmente atuando como desenvolvedor mobile na BRQ.
-- 📱 Mobile com React Native.
-- 🟢 Back-end com NodeJS.
-- 📫 Contate-me no email: antoniosvuono@icloud.com
+- 🧑🏾‍💻 Mobile Engineer at BRQ Digital.
+- 📱 Mobile with React Native.
+- 🟢 Back-end with NodeJS.
+- 📫 Contact me: antoniosvuono@icloud.com
 
 ##
 
