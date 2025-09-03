@@ -1,7 +1,6 @@
 
 ## Antonio Vuono - Mobile Engineer 📱 
 
-- 🧑🏾‍💻 Mobile Engineer at BRQ Digital.
 - 📱 Mobile with React Native.
 - 🟢 Back-end with NodeJS.
 - 📫 Contact me: antoniosvuono@icloud.com
